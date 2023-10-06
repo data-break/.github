@@ -2,6 +2,7 @@
 New changes must be initially done in "development" branch. If you wish to merge your code into the master branch do so with caution.
 
 *Read the SSH setup guide before you start contributing*
+
 To start contributing:
 ```
 git clone git@github.com:data-break/<repository-name>.git
