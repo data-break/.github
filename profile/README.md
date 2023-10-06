@@ -14,7 +14,7 @@ git checkout development
 You need to setup an ssh key in order to ssh into projects and push with your credentials, follow this guide: [Setting Up SSH Keys for GitHub](https://www.youtube.com/watch?v=8X4u9sca3Io)
 As follows:
 ```
-ssh-keygen -t ed25519 example@example.com
+ssh-keygen -t ed25519 -C example@example.com
 eval "$(ssh-agent -s)"
 touch ~/.ssh/config
 nano ~/.ssh/config
