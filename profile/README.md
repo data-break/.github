@@ -35,6 +35,6 @@ Add the SSH key to the agent:
 ssh-add ~/.ssh/id_ed25519
 ```
 
-Retrieve the SSH key's public part: ``` cat ~/.ssh/id_ed25519.pub``` and add the output your to github ssh keys
+Retrieve the SSH key's public part: ``` cat ~/.ssh/id_ed25519.pub``` and add the output as your github ssh key
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=0d02f47d7c5f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
