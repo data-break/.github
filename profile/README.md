@@ -20,7 +20,7 @@ touch ~/.ssh/config
 nano ~/.ssh/config
 ```
 
-Then open your favourite text editor and add:
+Then add the following to the config file:
 ```
 Host *
 	AddKeysToAgent yes
