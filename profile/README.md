@@ -4,8 +4,8 @@ New changes must be initially done in "development" branch. If you wish to merge
 *Read the SSH setup guide before you start contributing*
 To start contributing:
 ```
-git clone git@github.com:data-break/ltac.git
-cd ltac
+git clone git@github.com:data-break/<repository-name>.git
+cd <repository-name>
 git checkout development
 ```
 
