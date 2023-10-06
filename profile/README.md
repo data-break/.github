@@ -17,10 +17,13 @@ As follows:
 ssh-keygen -t ed25519 -C example@example.com
 eval "$(ssh-agent -s)"
 touch ~/.ssh/config
-nano ~/.ssh/config
 ```
 
-Then add the following to the config file:
+Edit the config file with your desired text editor:
+```
+nano ~/.ssh/config
+```
+Add the following:
 ```
 Host *
 	AddKeysToAgent yes
