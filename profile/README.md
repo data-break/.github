@@ -1,5 +1,5 @@
 # Development guideline
-New changes must be initially done in "development" branch. If you wish to merge your code into the master branch do so with caution.
+New changes must be initially done in "development" branch. If you wish to merge your code into the master branch do so with caution or with a pull request.
 
 *Read the SSH setup guide before you start contributing*
 
