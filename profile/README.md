@@ -32,7 +32,7 @@ Host *
 
 Add the SSH key to the agent:
 ```
-ssh-add ~/.ssh/id_ed_25519
+ssh-add ~/.ssh/id_ed25519
 ```
 
 Retrieve the SSH key's public part: ``` cat ~/.ssh/id_ed25519.pub``` and add the output as your github ssh key
