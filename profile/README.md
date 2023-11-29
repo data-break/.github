@@ -1,5 +1,5 @@
 # Mail messages
-All messages sent to the mail@databreak.dev is forwarded to all members of the org. (Spam will get your mail auto deleted)
+All mail sent to the mail@databreak.dev is forwarded to all members of the org. (Spam will get your mail auto deleted)
 
 # Development guideline
 New changes must be initially done in "development" branch. If you wish to merge your code into the master branch do so with caution or with a pull request.
