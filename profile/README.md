@@ -1,4 +1,4 @@
-#Mail messages
+# Mail messages
 All messages sent to the mail@databreak.dev is forwarded to all members of the org. (Spam will get your mail auto deleted)
 
 # Development guideline
